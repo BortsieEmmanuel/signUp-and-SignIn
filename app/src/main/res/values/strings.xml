@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="signInfo">if you don\'t account have ? sign up here</string>
+    <string name="mainPage">Main Page</string>
+    <string name="phone">Enter Your Phone</string>
+    <string name="sign">Enter Your Email Id To Create Account</string>
+    <string name="already">Have Already Account Sign Here?</string>
+</resources>
